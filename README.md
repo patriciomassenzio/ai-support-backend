@@ -73,4 +73,4 @@ pytest -v
 
 ## License
 
-MIT © Patricio Massenzio
+Patricio Massenzio
